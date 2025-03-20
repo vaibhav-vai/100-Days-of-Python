@@ -20,3 +20,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - Input: The player chooses "left" or "right", "swim" or "wait", etc.
     - Output: "You found the treasure! You Win!" or "Game Over."
+- **Day 04: Rock Paper Scissors**
+  - **Description**: A text-based game where the player competes against the computer in a classic Rock Paper Scissors match using random selection and conditionals.
+  - **File**: [rock_paper_scissors.py](Day04_RockPaperScissors/rock_paper_scissors.py)
+  - **Sample Output**:
+    - Input: Player chooses "Rock"
+    - Output: "Computer chose Scissors. You Win!" or "Computer chose Paper. You Lose!"
