@@ -14,3 +14,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - Sample Output:  
     Input: Bill = $100, Tip = 10%, People = 4  
     Output: "Each person should pay: $27.50"
+- **Day 03: Treasure Island**
+  - **Description**: A text-based adventure game where the player makes choices to find the treasure using nested if-else statements.
+  - **File**: [treasure_island.py](Day03_TreasureIsland/treasure_island.py)
+  - **Sample Output**:
+    - Input: The player chooses "left" or "right", "swim" or "wait", etc.
+    - Output: "You found the treasure! You Win!" or "Game Over."
