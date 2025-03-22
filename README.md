@@ -28,7 +28,7 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
     - Output: "Computer chose Scissors. You Win!" or "Computer chose Paper. You Lose!"
 - **Day 5: Password Generator
   - **Description**: A program that generates a random password using loops and basic randomization techniques.
-  - **File**: [password_generator.py].(Day05-PasswordGenerator/password_generator.py)
+  - **File**: [password_generator.py](Day05__PasswordGenerator/password_generator.py)
   - **Sample Output**:
     - **Input**: User specifies the desired length, count of letters, symbols and numbers in their password (e.g., 8 characters)
     - **Output**: "Your password is: s2t#u1v*"
