@@ -30,11 +30,17 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Description**: A program that generates a random password using loops and basic randomization techniques.
   - **File**: [password_generator.py](Day05_PasswordGenerator/password_generator.py)
   - **Sample Output**:
-    - **Input**: User specifies the desired length, count of letters, symbols and numbers in their password (e.g., 8 characters)
-    - **Output**: "Your password is: s2t#u1v*"
+    - Input: User specifies the desired length, count of letters, symbols and numbers in their password (e.g., 8 characters)
+    - Output: "Your password is: s2t#u1v*"
 - **Day 6: Escaping the Maze (Reeborg’s World)**
 - **Description**: A program that helps Reeborg, a virtual robot, escape a maze in Reeborg’s World using loops and conditional logic to navigate obstacles.
 - **File**: [escaping_the_maze.py](Day06_EscapingTheMaze/escaping_the_maze.py)
 - **Sample Output**:
-  - **Input**: The maze layout is provided in Reeborg’s World (e.g., Maze 1)
-  - **Output**: Reeborg successfully reaches the goal or gets stuck (visualized in Reeborg’s World) 
+  - Input: The maze layout is provided in Reeborg’s World (e.g., Maze 1)
+  - Output: Reeborg successfully reaches the goal or gets stuck (visualized in Reeborg’s World) 
+- **Day 7: Hangman**
+- **Description**: A text-based game where the player guesses letters to uncover a randomly chosen word, with a limited number of lives, using lists and loops.
+- **File**: hangman.py
+- **Sample Output**:
+  - Input: Player guesses a letter (e.g., "a")
+  - Output: "Current word: _a___  Lives: 6" or "You lose! The word was: apple"
