@@ -40,7 +40,13 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
     - Output: Reeborg successfully reaches the goal or gets stuck (visualized in Reeborg’s World) 
 - **Day 7: Hangman**
   - **Description**: A text-based game where the player guesses letters to uncover a randomly chosen word, with a limited number of lives, using lists and loops.
-  - **File**: hangman.py
+  - **File**: [hangman.py](Day07_Hangman/hangman.py)
   - **Sample Output**:
     - Input: Player guesses a letter (e.g., "a")
     - Output: "Current word: _a___  Lives: 6" or "You lose! The word was: apple"
+- **Day 8: Caesar Cipher**
+  - **Description**: A program that encrypts or decrypts a message by shifting letters in the alphabet by a specified number, using functions and loops.
+  - **File**: [caesar_cipher.py](Day08_CaesarCipher/caeser_cipher.py)
+  - **Sample Output**:
+    - **Input**: User chooses to "encode" or "decode", enters a message (e.g., "hello"), and a shift number (e.g., 3)
+    - **Output**: "The encoded text is: "khoor" or "The decoded text is: hello"
