@@ -50,3 +50,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User chooses to "encode" or "decode", enters a message (e.g., "hello"), and a shift number (e.g., 3)
     - **Output**: "The encoded text is: "khoor" or "The decoded text is: hello"
+- **Day 9: Blind Auction**
+  - **Description**: A program that simulates a blind auction where multiple bidders place secret bids, and the highest bidder wins, using dictionaries and loops.
+  - **File**: [blind_auction.py](Day09_BlindAuction/blind_auction.py)
+  - **Sample Output**:
+    - **Input**: Users enter their name and bid amount (e.g., "Alice: 100", "Bob: 150"), and indicate if there are more bidders
+    - **Output**: "The winner is Bob with a bid of $150!"
