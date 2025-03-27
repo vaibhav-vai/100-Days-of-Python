@@ -56,3 +56,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Users enter their name and bid amount (e.g., "Alice: 100", "Bob: 150"), and indicate if there are more bidders
     - **Output**: "The winner is Bob with a bid of $150!"
+- **Day 10: Calculator**
+  - **Description**: A program that performs basic arithmetic operations (addition, subtraction, multiplication, division) and allows the user to continue calculating with the result, using functions and loops.
+  - **File**: [calculator.py](Day10_Calculator/calculator.py)
+  - **Sample Output**:
+    - **Input**: User enters two numbers (e.g., 5 and 3), chooses an operation (e.g., "+"), and decides whether to continue (e.g., "y" or "n")
+    - **Output**: "5 + 3 = 8" and "Continue with 8? (y/n)"
