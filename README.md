@@ -62,3 +62,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User enters two numbers (e.g., 5 and 3), chooses an operation (e.g., "+"), and decides whether to continue (e.g., "y" or "n")
     - **Output**: "5 + 3 = 8" and "Continue with 8? (y/n)"
+- **Day 11: Blackjack**
+- **Description**: A text-based game simulating Blackjack, where the player competes against the dealer to get a hand value closest to 21 without going over, using lists, loops, and conditionals.
+- **File**: [blackjack.py](Day11_Blackjack/blackjack.py)
+- **Sample Output**:
+  - **Input**: Player chooses to "hit" or "stand" (e.g., "hit")
+  - **Output**: "Your cards: [10, 5], total: 15  Dealer's first card: 7" or "You went over 21! You lose."
