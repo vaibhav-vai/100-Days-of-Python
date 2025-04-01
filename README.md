@@ -68,3 +68,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
 - **Sample Output**:
   - **Input**: Player chooses to "hit" or "stand" (e.g., "hit")
   - **Output**: "Your cards: [10, 5], total: 15  Dealer's first card: 7" or "You went over 21! You lose."
+- **Day 12: Guess the Number**
+- **Description**: A text-based game where the player tries to guess a randomly chosen number, receiving hints like "Too high" or "Too low", using loops, conditionals, and randomization.
+- **File**: [guess_the_number.py](Day12_GuessTheNumber/guess_the_number.py)
+- **Sample Output**:
+  - **Input**: Player guesses a number (e.g., "50")
+  - **Output**: "Too high! Guess again." or "You got it! The number was 42."
