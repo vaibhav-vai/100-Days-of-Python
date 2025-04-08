@@ -74,3 +74,6 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
 - **Sample Output**:
   - **Input**: Player guesses a number (e.g., "50")
   - **Output**: "Too high! Guess again." or "You got it! The number was 42."
+- **Day 13: Debugging**
+- **Description**: A learning module on debugging techniques to identify and fix errors in code, covering problem description, bug reproduction, line-by-line evaluation, using print statements, debuggers, and final tips, with exercises on Odd or Even, Leap Year, and FizzBuzz.
+- **File**: N/A (Conceptual learning and exercises)
