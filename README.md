@@ -63,17 +63,23 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
     - **Input**: User enters two numbers (e.g., 5 and 3), chooses an operation (e.g., "+"), and decides whether to continue (e.g., "y" or "n")
     - **Output**: "5 + 3 = 8" and "Continue with 8? (y/n)"
 - **Day 11: Blackjack**
-- **Description**: A text-based game simulating Blackjack, where the player competes against the dealer to get a hand value closest to 21 without going over, using lists, loops, and conditionals.
-- **File**: [blackjack.py](Day11_Blackjack/blackjack.py)
-- **Sample Output**:
-  - **Input**: Player chooses to "hit" or "stand" (e.g., "hit")
-  - **Output**: "Your cards: [10, 5], total: 15  Dealer's first card: 7" or "You went over 21! You lose."
+  - **Description**: A text-based game simulating Blackjack, where the player competes against the dealer to get a hand value closest to 21 without going over, using lists, loops, and conditionals.
+  - **File**: [blackjack.py](Day11_Blackjack/blackjack.py)
+  - **Sample Output**:
+    - **Input**: Player chooses to "hit" or "stand" (e.g., "hit")
+    - **Output**: "Your cards: [10, 5], total: 15  Dealer's first card: 7" or "You went over 21! You lose."
 - **Day 12: Guess the Number**
-- **Description**: A text-based game where the player tries to guess a randomly chosen number, receiving hints like "Too high" or "Too low", using loops, conditionals, and randomization.
-- **File**: [guess_the_number.py](Day12_GuessTheNumber/guess_the_number.py)
-- **Sample Output**:
-  - **Input**: Player guesses a number (e.g., "50")
-  - **Output**: "Too high! Guess again." or "You got it! The number was 42."
+  - **Description**: A text-based game where the player tries to guess a randomly chosen number, receiving hints like "Too high" or "Too low", using loops, conditionals, and randomization.
+  - **File**: [guess_the_number.py](Day12_GuessTheNumber/guess_the_number.py)
+  - **Sample Output**:
+    - **Input**: Player guesses a number (e.g., "50")
+    - **Output**: "Too high! Guess again." or "You got it! The number was 42."
 - **Day 13: Debugging**
-- **Description**: A learning module on debugging techniques to identify and fix errors in code, covering problem description, bug reproduction, line-by-line evaluation, using print statements, debuggers, and final tips, with exercises on Odd or Even, Leap Year, and FizzBuzz.
-- **File**: N/A (Conceptual learning and exercises)
+  - **Description**: A learning module on debugging techniques to identify and fix errors in code, covering problem description, bug reproduction, line-by-line evaluation, using print statements, debuggers, and final tips, with exercises on Odd or Even, Leap Year, and FizzBuzz.
+  - **File**: N/A (Conceptual learning and exercises)
+- **Day 14: Higher Lower**
+  - **Description**: A game where the player guesses which of two randomly selected options has a higher value (e.g., social media followers), using data from a file, loops, and conditionals.
+  - **File**: higher_lower.py
+  - **Sample Output**:
+    - **Input**: Player chooses "A" or "B" (e.g., "A")
+    - **Output**: "Compare A: Cristiano Ronaldo vs B: Lionel Messi. Is A higher or lower? You chose A. Correct!" or "Wrong! B had more followers."
