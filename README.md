@@ -79,7 +79,7 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **File**: N/A (Conceptual learning and exercises)
 - **Day 14: Higher Lower**
   - **Description**: A game where the player guesses which of two randomly selected options has a higher value (e.g., social media followers), using data from a file, loops, and conditionals.
-  - **File**: higher_lower.py
+  - **File**: [higher_lower.py](Day14_HigherLower/higher_lower.py)
   - **Sample Output**:
     - **Input**: Player chooses "A" or "B" (e.g., "A")
     - **Output**: "Compare A: Cristiano Ronaldo vs B: Lionel Messi. Is A higher or lower? You chose A. Correct!" or "Wrong! B had more followers."
