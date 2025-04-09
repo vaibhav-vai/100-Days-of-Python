@@ -85,7 +85,7 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
     - **Output**: "Compare A: Cristiano Ronaldo vs B: Lionel Messi. Is A higher or lower? You chose A. Correct!" or "Wrong! B had more followers."
 - **Day 15: Coffee Machine**
   - **Description**: A program that simulates a coffee machine, managing resources (water, milk, coffee), processing orders, and handling payments using dictionaries, loops, and conditionals.
-  - **File**: coffee_machine.py
+  - **File**: [coffee_machine.py](Day15_CoffeeMachine/coffee_machine.py)
   - **Sample Output**:
     - **Input**: User selects "espresso", inserts "1.5" in coins
     - **Output**: "Please insert coins. Here is your espresso. Enjoy!" or "Sorry, not enough resources."
