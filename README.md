@@ -95,3 +95,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User selects "latte", inserts "2.5" in coins
     - **Output**: "Please insert coins. Latte prepared. Enjoy!" or "Insufficient resources for latte."
+- **Day 17: Quiz App**
+  - **Description**: A program that creates a quiz application where users answer questions and track their score using lists, loops, dictionaries and OOP concepts.
+  - **File**: quiz.py
+  - **Sample Output**:
+    - **Input**: User answers a question (e.g., "True" for "Is the sky blue?")
+    - **Output**: "Correct! Score: 1" or "Wrong. Score: 0. Next question..."
