@@ -91,7 +91,7 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
     - **Output**: "Please insert coins. Here is your espresso. Enjoy!" or "Sorry, not enough resources."
 - **Day 16: OOP Coffee Maker**
   - **Description**: A program that enhances the coffee machine with object-oriented programming (OOP), using classes and objects to manage resources, orders, and payments.
-  - **File**: [main.py](Day16_OOPCoffeeMachine/main.py)
+  - **File**: [oop_coffee_maker.py](Day16_OOPCoffeeMachine/main.py)
   - **Sample Output**:
     - **Input**: User selects "latte", inserts "2.5" in coins
     - **Output**: "Please insert coins. Latte prepared. Enjoy!" or "Insufficient resources for latte."
