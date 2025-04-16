@@ -101,3 +101,21 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User answers a question (e.g., "True" for "Is the sky blue?")
     - **Output**: "Correct! Score: 1" or "Wrong. Score: 0. Next question..."
+- **Day 18: Hirst Painting**
+  - **Description**: A Turtle graphics project that replicates the style of Damien Hirst's dot paintings using random colors and loops.
+  - **File**: [hirst_painting.py](Day18_HirstPainting/main.py)
+  - **Sample Output**:
+    - **Input**: Run the program
+    - **Output**: A window with a grid of colored dots.
+- **Day 19: Turtle Race**
+  - **Description**: A Turtle-based game where multiple turtles race to the finish line, using random movements and user betting.
+  - **File**: [turtle_race.py](Day19_TurtleRace/main.py)
+  - **Sample Output**:
+    - **Input**: User bets on a color (e.g., "red")
+    - **Output**: "Race started! Winner: Blue turtle!" or "You won! You bet on Blue.".
+- **Day 20 & 21: Snake Game**
+  - **Description**: A classic Snake game using Turtle graphics, where the snake grows by eating food and avoids collisions, spanning two days for development.
+  - **File**: [snake_game.py](Day20&21_SnakeGame/main.py)
+  - **Sample Output**:
+    - **Input**: User controls snake with arrows
+    - **Output**: A window with a snake moving, eating food, and growing, or "Game Over" on collision.
