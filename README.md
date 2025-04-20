@@ -120,8 +120,14 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
     - **Input**: User controls snake with arrows
     - **Output**: A window with a snake moving, eating food, and growing, or "Game Over" on collision.
 - **Day 22: Pong Game**
-- **Description**: A Turtle-based game implementing the classic Pong with paddles and a ball, using event handling and collision detection.
-- **File**: [pong_game.py](Day22_Pong/main.py)
-- **Sample Output**:
-  - **Input**: User moves paddles with keys
-  - **Output**: A window with paddles and ball, scoring points (visual).
+  - **Description**: A Turtle-based game implementing the classic Pong with paddles and a ball, using event handling and collision detection.
+  - **File**: [pong_game.py](Day22_Pong/main.py)
+  - **Sample Output**:
+    - **Input**: User moves paddles with keys
+    - **Output**: A window with paddles and ball, scoring points.
+- **Day 23: Turtle Crossing Game**
+  - **Description**: A Turtle graphics game where a turtle crosses a road with moving cars, using collision detection and scoring.
+  - **File**: turtle_crossing_game.py
+  - **Sample Output**:
+    - **Input**: User moves turtle with keys
+    - **Output**: A window with a turtle navigating cars, "Score: X" or "Game Over" on collision.
