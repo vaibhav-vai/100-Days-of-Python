@@ -131,3 +131,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User moves turtle with keys
     - **Output**: A window with a turtle navigating cars, "Score: X" or "Game Over" on collision.
+- **Day 24: Mail Merge**
+  - **Description**: A program that generates personalized letters by merging data from a file.
+  - **File**: [mail_merge.py](Day24_MailMerge/main.py)
+  - **Sample Output**:
+    - **Input**: Run with a names file
+    - **Output**: "Dear [Name], ..." (text file output).
