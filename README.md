@@ -137,3 +137,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Run with a names file
     - **Output**: "Dear [Name], ..." (text file output).
+- **Day 25: U.S. States Game**
+  - **Description**: A Turtle-based game where players guess U.S. states on a map.
+  - **File**: [us_states_game.py](Day25_USStateGame/main.py)
+  - **Sample Output**:
+    - **Input**: User enters state names
+    - **Output**: States marked on a map, "You got X/50 states" (visual).
