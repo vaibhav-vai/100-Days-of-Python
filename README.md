@@ -143,3 +143,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User enters state names
     - **Output**: States marked on a map, "You got X/50 states" (visual).
+- **Day 26: NATO Alphabet**
+  - **Description**: A program that converts text input into NATO phonetic alphabet equivalents.
+  - **File**: [nato_alphabet.py](Day26_NATOAlphabet/main.py)
+  - **Sample Output**:
+    - **Input**: "hello"
+    - **Output**: "H: Hotel, E: Echo, L: Lima, L: Lima, O: Oscar".
