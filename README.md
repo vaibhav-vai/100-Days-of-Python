@@ -155,3 +155,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User enters "10" miles
     - **Output**: "16.09 kilometers" (GUI display).
+- **Day 28: Pomodoro App**
+  - **Description**: A GUI application using Tkinter that implements the Pomodoro Technique for time management.
+  - **File**: [pomodoro_app.py](Day28_Pomodoro/main.py)
+  - **Sample Output**:
+    - **Input**: User interacts with the GUI (starts timer, resets, etc.).
+    - **Output**: A GUI window with a timer displaying work and break intervals, labels indicating the current mode ("Work" or "Break"), and start/reset buttons. The timer visually counts down the minutes and seconds.
