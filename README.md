@@ -161,3 +161,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User interacts with the GUI (starts timer, resets, etc.).
     - **Output**: A GUI window with a timer displaying work and break intervals, labels indicating the current mode ("Work" or "Break"), and start/reset buttons. The timer visually counts down the minutes and seconds.
+- **Day 29: Password Manager**
+  - **Description**: A GUI application using Tkinter to manage passwords, allowing users to generate, save, and retrieve website credentials securely.
+  - **File**: [password_manager.py](Day29_PasswordManager/password_manager.py)
+  - **Sample Output**:
+    - **Input**: User enters website "google.com", email "user@example.com", and clicks "Generate Password" or inputs a password.
+    - **Output**: Saves to a file (e.g., "passwords.csv") and shows "Credentials saved!" in the GUI. Search retrieves password (e.g., "Password: X7kP9mQ2").
