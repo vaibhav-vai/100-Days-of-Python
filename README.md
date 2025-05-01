@@ -167,3 +167,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User enters website "google.com", email "user@example.com", clicks "Generate Password" or inputs a password, or searches for a website.
     - **Output**: Saves to a JSON file (e.g., "passwords.json") with error handling (e.g., "Website field cannot be empty!"). Search retrieves password (e.g., "Password for google.com: X7kP9mQ2").
+- **Day 31: Flash Card App**
+  - **Description**: A GUI application using Tkinter to display French words and their English meanings, helping users learn vocabulary through flashcards.
+  - **File**: [flash_card_app.py](Day31_FlashCardApp/main.py)
+  - **Sample Output**:
+    - **Input**: User interacts with the GUI (clicks to flip card or move to next word).
+    - **Output**: A GUI window showing a French word (e.g., "Bonjour") on one side, flipping after a timer to reveal the English meaning (e.g., "Hello"). Includes buttons to mark as known or unknown.
