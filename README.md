@@ -173,3 +173,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User interacts with the GUI (clicks to flip card or move to next word).
     - **Output**: A GUI window showing a French word (e.g., "Bonjour") on one side, flipping after a timer to reveal the English meaning (e.g., "Hello"). Includes buttons to mark as known or unknown.
+- **Day 32: Automated Birthday Wisher**
+  - **Description**: A Python script that automates sending birthday wishes via email by reading birthdays from a CSV file, selecting a random birthday wish template, and using SMTP.
+  - **File**: [automated_birthday_wisher.py](Day32_AutomatedBirthdayWisher/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs daily, checks a CSV file for birthdays (e.g., "John,01-05,john@example.com").
+    - **Output**: Sends an email with a randomly selected template (e.g., "Subject: Happy Birthday John!\n\nWishing you a fantastic day full of joy!") to the recipient if today matches their birthday.
