@@ -179,3 +179,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs daily, checks a CSV file for birthdays (e.g., "John,01-05,john@example.com").
     - **Output**: Sends an email with a randomly selected template (e.g., "Subject: Happy Birthday John!\n\nWishing you a fantastic day full of joy!") to the recipient if today matches their birthday.
+- **Day 33: ISS Overhead Notifier**
+  - **Description**: A Python script that checks if the International Space Station (ISS) is overhead your location and sends an email notification if it is visible at night, using APIs and SMTP.
+  - **File**: [iss_overhead_notifier.py](Day33_ISSOverheadNotifier/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs periodically, checks ISS position via API and sunrise/sunset times for your location.
+    - **Output**: Sends an email (e.g., "Subject: ISS Overhead Now!\n\nLook up! The ISS is above you right now!") if the ISS is overhead and it’s nighttime.
