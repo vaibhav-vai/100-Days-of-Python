@@ -185,3 +185,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs periodically, checks ISS position via API and sunrise/sunset times for your location.
     - **Output**: Sends an email (e.g., "Subject: ISS Overhead Now!\n\nLook up! The ISS is above you right now!") if the ISS is overhead and it’s nighttime.
+- **Day 34: GUI Quiz App**
+  - **Description**: A GUI application using Tkinter that presents a true/false quiz, with two image buttons (e.g., checkmark and cross) for users to select their answer, tracks the score, and provides feedback.
+  - **File**: [quiz_app.py](Day34_GUIQuizApp/main.py)
+  - **Sample Output**:
+    - **Input**: User interacts with the GUI, clicking the checkmark or cross image button for a question (e.g., "Paris is the capital of France. True/False").
+    - **Output**: Displays "Correct!" or "Incorrect!" after each answer, updates the score (e.g., "Score: 3/5"), and shows the next true/false question or final result.
