@@ -191,3 +191,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User interacts with the GUI, clicking the checkmark or cross image button for a question (e.g., "Paris is the capital of France. True/False").
     - **Output**: Displays "Correct!" or "Incorrect!" after each answer, updates the score (e.g., "Score: 3/5"), and shows the next true/false question or final result.
+- **Day 35: Rain Alert**
+  - **Description**: A Python script that checks the weather forecast for the next 12 hours using an API and sends an SMS if rain is expected.
+  - **File**: [rain_alert.py](Day35_RainAlert/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, retrieves weather data via API for your location.
+    - **Output**: Sends an SMS (e.g., "It will rain please bring an umbrella") if rain is forecasted within the next 12 hours.
