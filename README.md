@@ -197,3 +197,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, retrieves weather data via API for your location.
     - **Output**: Sends an SMS (e.g., "It will rain please bring an umbrella") if rain is forecasted within the next 12 hours.
+- **Day 36: Stock Trading News Alert**
+  - **Description**: A Python script that monitors a stock's price, sends an SMS if the price increases by 5% or more, including the percentage increase and summaries of 3 related news articles, using APIs.
+  - **File**: [stock_news_alert.py](Day36_StockTradingNewsAlert/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, checks stock price (e.g., Tesla) and news via APIs.
+    - **Output**: Sends an SMS if price increases by 5% (e.g., "Tesla stock up by 6.2%! News: 1. Tesla Q1 earnings soar... 2. New factory opening... 3. EV market grows...").
