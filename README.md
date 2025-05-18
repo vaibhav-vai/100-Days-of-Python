@@ -203,3 +203,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, checks stock price (e.g., Tesla) and news via APIs.
     - **Output**: Sends an SMS if price increases by 5% (e.g., "Tesla stock up by 6.2%! News: 1. Tesla Q1 earnings soar... 2. New factory opening... 3. EV market grows...").
+- **Day 37: Habit Tracker**
+  - **Description**: A Python script that tracks daily habits using the Pixela API, allowing users to log and visualize their habit progress on a pixel graph.
+  - **File**: [habit_tracker.py](Day37_HabitTracker/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, user logs a habit (e.g., "Exercise for 30 minutes") via Pixela API.
+    - **Output**: Updates the Pixela graph with a new pixel for the day (e.g., a green pixel for completion), viewable on the Pixela website.
