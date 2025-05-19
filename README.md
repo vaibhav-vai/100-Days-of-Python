@@ -209,3 +209,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, user logs a habit (e.g., "Exercise for 30 minutes") via Pixela API.
     - **Output**: Updates the Pixela graph with a new pixel for the day (e.g., a green pixel for completion), viewable on the Pixela website.
+- **Day 38: Workout Tracker**
+  - **Description**: A Python script that logs workout details using the Nutritionix API to parse exercises and stores the data (e.g., exercise type, duration, calories) in a Google Sheet.
+  - **File**: [workout_tracker.py](Day38_WorkoutTracker/main.py)
+  - **Sample Output**:
+    - **Input**: User inputs workout details (e.g., "ran 5km for 30 minutes") via Nutritionix API.
+    - **Output**: Logs data to Google Sheet (e.g., "Date: 2025-05-19, Exercise: Running, Duration: 30 min, Calories: 350").
