@@ -217,7 +217,7 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
     - **Output**: Logs data to Google Sheet (e.g., "Date: 2025-05-19, Exercise: Running, Duration: 30 min, Calories: 350").
 - **Day 39: Flight Deal Partner**
   - **Description**: A Python script that searches for the cheapest flights from tomorrow to the next 6 months using an API, stores data in Google Sheets, and sends an SMS to the user if a deal is found.
-  - **File**: [flight_deal_partner.py](Day39_FlightDealPartner/main.py)
+  - **File**: [flight_deal_partner.py](Day39_FlightDeal/main.py)
   - **Sample Output**:
     - **Input**: Script runs, searches flight prices (e.g., from Delhi to Mumbai) via API, logs data in Google Sheets.
     - **Output**: Sends an SMS if a deal is found (e.g., "Cheapest flight found! Delhi to Mumbai on 2025-06-15 for ₹3500").
