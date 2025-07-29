@@ -227,3 +227,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script retrieves user emails from Google Sheets (via Google Form), searches flight prices (e.g., from Delhi to Mumbai) via API.
     - **Output**: Emails users if a deal is found (e.g., "Subject: Flight Deal Alert!\n\nCheapest flight found! Delhi to Mumbai on 2025-06-15 for ₹3500").
+- **Day 41: Movie Ranking Project**
+  - **Description**: A simple HTML file using h1, h2, h3, and p tags to list and describe my favorite 3 movies of all time.
+  - **File**: [movie_ranking.html](Day41_MovieRankingProject/index.html)
+  - **Sample Output**:
+    - **Input**: User opens the HTML file in a browser.
+    - **Output**: Displays a webpage with headings (e.g., "My Top 3 Movies") and paragraphs listing and describing movies (e.g., "1. The Shawshank Redemption - The best movie ever.").
