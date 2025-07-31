@@ -245,3 +245,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User opens the HTML file in a browser.
     - **Output**: Displays a webpage with text (e.g., "Rojo") alongside colored boxes (e.g., a red box) styled with CSS properties like color, font-size, height, and width.
+- **Day 44: Motivational Meme Project**
+  - **Description**: A simple HTML and CSS project using various HTML tags and CSS properties to display a funny motivational quote and an image, featuring the quote "That Special Moment When you find the perfect avocado at the supermarket."
+  - **File**: [motivational_meme.html](Day44_MotivationalMemeProject/index.html), [styles.css](Day44_MotivationalMemeProject/style.css)
+  - **Sample Output**:
+    - **Input**: User opens the HTML file in a browser.
+    - **Output**: Displays a webpage with a quote (e.g., "That Special Moment When you find the perfect avocado at the supermarket") styled with CSS properties, accompanied by a relevant image.
