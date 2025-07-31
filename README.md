@@ -233,3 +233,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User opens the HTML file in a browser.
     - **Output**: Displays a webpage with headings (e.g., "My Top 3 Movies") and paragraphs listing and describing movies (e.g., "1. The Shawshank Redemption - The best movie ever.").
+- **Day 42: Birthday Invite Project**
+  - **Description**: A simple HTML file using h1, h2, h3, p, anchor (a), and img tags to create an invitation for my birthday celebration.
+  - **File**: [birthday_invite.html](Day42_BirthdayInviteProject/index.html)
+  - **Sample Output**:
+    - **Input**: User opens the HTML file in a browser.
+    - **Output**: Displays a webpage with headings (e.g., "You're Invited to My Birthday!"), paragraphs with details (e.g., "Date: Aug 10, 2025"), an image of the celebration, and a link (e.g., "RSVP here").
