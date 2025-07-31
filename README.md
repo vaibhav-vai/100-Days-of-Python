@@ -239,3 +239,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User opens the HTML file in a browser.
     - **Output**: Displays a webpage with headings (e.g., "You're Invited to My Birthday!"), paragraphs with details (e.g., "Date: Aug 10, 2025"), an image of the celebration, and a link (e.g., "RSVP here").
+- **Day 43: Color Vocab Project**
+  - **Description**: A simple HTML and CSS project using properties like color, font-size, height, and width in the CSS file to display different colors in Spanish along with their corresponding color displays.
+  - **File**: [color_vocab.html](Day43_ColorVocabProject/index.html), [style.css](Day43_ColorVocabProject/style.css)
+  - **Sample Output**:
+    - **Input**: User opens the HTML file in a browser.
+    - **Output**: Displays a webpage with text (e.g., "Rojo") alongside colored boxes (e.g., a red box) styled with CSS properties like color, font-size, height, and width.
