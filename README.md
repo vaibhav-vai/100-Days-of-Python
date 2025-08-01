@@ -251,3 +251,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User opens the HTML file in a browser.
     - **Output**: Displays a webpage with a quote (e.g., "That Special Moment When you find the perfect avocado at the supermarket") styled with CSS properties, accompanied by a relevant image.
+- **Day 45: Top 100 Movies Project**
+  - **Description**: A Python project that web scrapes Empire's webpage for the top 100 movies and creates a new text file containing the list of all 100 movies.
+  - **File**: [top_100_movies.py](Day45_Top100Movies/main.py), [Top 100 Movies.txt](Day45_Top100Movies/output.txt)
+  - **Sample Output**:
+    - **Input**: Script runs, scrapes data from Empire's top 100 movies webpage.
+    - **Output**: Generates a text file (e.g., "top_100_movies.txt") with the list (e.g., "1. The Shawshank Redemption\n2. The Godfather\n...100. The Irishman").
