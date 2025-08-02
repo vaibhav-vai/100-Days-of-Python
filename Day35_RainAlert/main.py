@@ -30,7 +30,7 @@ if will_rain:
     client = Client(account_sid, auth_token)
     message = client.messages.create(
         body="It's going to rain today bring Umbrella",
-        from_='+16203123740',
-        to='+917277682083'
+        from_='your-twilio-number',
+        to='your-phone-number'
     )
     print(message.status)
