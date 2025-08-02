@@ -257,3 +257,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, scrapes data from Empire's top 100 movies webpage.
     - **Output**: Generates a text file (e.g., "top_100_movies.txt") with the list (e.g., "1. The Shawshank Redemption\n2. The Godfather\n...100. The Irishman").
+- **Day 46: Musical Time Machine**
+  - **Description**: A Python project that web scrapes the Billboard website for the top 100 songs on a specific past date and uses the Spotify API to create a playlist named "{date} Billboard 100" with those songs.
+  - **File**: [musical_time_machine.py](Day46_MusicalTimeMachine/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, scrapes Billboard data for a past date (e.g., "1990-01-01") and accesses Spotify API with user credentials.
+    - **Output**: Creates a Spotify playlist (e.g., "1990-01-01 Billboard 100") containing the top 100 songs from that date (e.g., "1. Another Day in Paradise - Phil Collins").
