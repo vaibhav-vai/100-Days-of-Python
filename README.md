@@ -263,3 +263,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, scrapes Billboard data for a past date (e.g., "1990-01-01") and accesses Spotify API with user credentials.
     - **Output**: Creates a Spotify playlist (e.g., "1990-01-01 Billboard 100") containing the top 100 songs from that date (e.g., "1. Another Day in Paradise - Phil Collins").
+- **Day 47: Amazon Price Tracker**
+  - **Description**: A Python project that web scrapes a live Amazon webpage to get the current price of a specific item, and uses smtplib to send an email to myself with the product name and price whenever it drops below my predetermined threshold.
+  - **File**: [amazon_price_tracker.py](Day47_AmazonPriceTracker/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, scrapes the Amazon page for a product (e.g., "Wireless Mouse") and checks against a set price (e.g., $20).
+    - **Output**: Sends an email (e.g., "Subject: Price Drop Alert!\n\nProduct: Wireless Mouse, Price: $18.99") if the price falls below the threshold.
