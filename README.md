@@ -269,3 +269,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, scrapes the Amazon page for a product (e.g., "Wireless Mouse") and checks against a set price (e.g., $20).
     - **Output**: Sends an email (e.g., "Subject: Price Drop Alert!\n\nProduct: Wireless Mouse, Price: $18.99") if the price falls below the threshold.
+- **Day 48: Cookie Clicker**
+  - **Description**: A Python project using the Selenium library to automate the Cookie Clicker game, clicking the cookie, buying the most expensive available upgrades every 5 seconds, and providing a total cookie count and cookies per second after 5 minutes.
+  - **File**: [cookie_clicker.py](Day48_CookieClicker/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, opens the Cookie Clicker game in a browser, and automates clicks and upgrades.
+    - **Output**: After 5 minutes, displays results (e.g., "Total Cookies: 125,000, Cookies per Second: 250") and logs upgrade purchases (e.g., "Bought 'Grandma' upgrade at 5 sec").
