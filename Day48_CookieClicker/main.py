@@ -37,7 +37,7 @@ cookie = driver.find_element(By.ID, value="bigCookie")
 item_ids = [f"product{i}" for i in range(20)]
 
 # Set timers
-wait_time = 10
+wait_time = 5
 timeout = time() + wait_time #check for purchases every 5 sec
 five_min = time() + 5 * 60 # run for 5 min
 
@@ -81,4 +81,5 @@ while True:
             print(f"Final result: {cookies_element.text}")
         except NoSuchElementException:
             print("Couldn't get final cookie count")
-        #break
+        break
+
