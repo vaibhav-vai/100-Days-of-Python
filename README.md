@@ -275,3 +275,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, opens the Cookie Clicker game in a browser, and automates clicks and upgrades.
     - **Output**: After 5 minutes, displays results (e.g., "Total Cookies: 125,000, Cookies per Second: 250") and logs upgrade purchases (e.g., "Bought 'Grandma' upgrade at 5 sec").
+- **Day 49: Automating Job Application on LinkedIn**
+  - **Description**: A Python project using the Selenium library to automate job applications on LinkedIn, applying to jobs with the "Easy Apply" option.
+  - **File**: [linkedin_job_automation.py](Day49_AutomatingJobApplicationOnLinkedin/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, logs into LinkedIn, and searches for jobs with "Easy Apply" available.
+    - **Output**: Automatically submits applications (e.g., "Applied to 5 Python Developer roles successfully").
