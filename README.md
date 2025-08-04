@@ -281,3 +281,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, logs into LinkedIn, and searches for jobs with "Easy Apply" available.
     - **Output**: Automatically submits applications (e.g., "Applied to 5 Python Developer roles successfully").
+- **Day 50: Tinder Swiping Bot**
+  - **Description**: A Python project using the Selenium library to automate swiping right on all profiles on Tinder with a 2-second delay between each swipe.
+  - **File**: [tinder_swiping_bot.py](Day50_TinderSwipingBot/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, logs into Tinder, and begins swiping right.
+    - **Output**: Automates swiping with a 2-second delay (e.g., "Swiped right on 10 profiles successfully").
