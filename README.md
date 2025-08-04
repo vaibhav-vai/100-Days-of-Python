@@ -287,3 +287,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, logs into Tinder, and begins swiping right.
     - **Output**: Automates swiping with a 2-second delay (e.g., "Swiped right on 10 profiles successfully").
+- **Day 51: Internet Speed Twitter Bot**
+  - **Description**: A Python project using the Selenium library to automate checking internet speed and logging into Twitter to post a tweet with the recorded speed.
+  - **File**: [internet_speed_twitter_bot.py](Day51_InternetSpeedTwitterBot/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, checks internet speed (e.g., via speedtest.net), logs into Twitter.
+    - **Output**: Posts a tweet (e.g., "My internet speed today: 50 Mbps download, 10 Mbps upload! #InternetSpeed #Tech") successfully.
