@@ -293,3 +293,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, checks internet speed (e.g., via speedtest.net), logs into Twitter.
     - **Output**: Posts a tweet (e.g., "My internet speed today: 50 Mbps download, 10 Mbps upload! #InternetSpeed #Tech") successfully.
+- **Day 52: Instagram Follower Bot**
+  - **Description**: A Python project using the Selenium library to automate logging into Instagram, opening a similar famous account, and following all its followers.
+  - **File**: [instagram_follower_bot.py](Day52_InstagramFollowerBot/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, logs into Instagram, navigates to a famous account (e.g., a fitness influencer), and targets followers.
+    - **Output**: Follows all followers (e.g., "Followed 25 users from [username]'s followers successfully").
