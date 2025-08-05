@@ -299,3 +299,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, logs into Instagram, navigates to a famous account (e.g., a fitness influencer), and targets followers.
     - **Output**: Follows all followers (e.g., "Followed 25 users from [username]'s followers successfully").
+- **Day 53: Data Entry Job Automation**
+  - **Description**: A Python project using Selenium and BeautifulSoup to automate data entry from Zillow, finding rental properties in San Francisco, extracting addresses, prices, and links with BeautifulSoup, and submitting them to a Google Form using Selenium.
+  - **File**: [data_entry_automation.py](Day53_DataEntryJobAutomation/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs, scrapes Zillow for San Francisco rentals, and accesses a Google Form.
+    - **Output**: Creates a list (e.g., "Address: 123 Main St, Price: $2500, Link: zillow.com/123") and submits to Google Form (e.g., "Data entry for 5 properties completed successfully").
