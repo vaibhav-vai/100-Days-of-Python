@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
 
-LINK = "https://docs.google.com/forms/d/e/1FAIpQLSf3cvesOtPc2DtwKTjFVboiNfRnqpASri82rJri6f2Rh6mNag/viewform?usp=sharing&ouid=117520298094426444346"
+LINK = "Your_Google_Form_Link"
 
 headers = {
     "User Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
