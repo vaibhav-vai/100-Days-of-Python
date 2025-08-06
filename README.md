@@ -311,3 +311,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs with two functions (e.g., one looping 1 million times, another looping 1 billion times).
     - **Output**: Displays runtime (e.g., "Function 1 took 0.25 seconds to run", "Function 2 took 0.15 seconds to run").
+- **Day 55: Higher Lower Game with Flask**
+  - **Description**: A Python project using Flask to create a Higher Lower guessing game where the computer generates a random number, and users input their guess in the URL to navigate to different pages based on whether the guess is higher, lower, or correct.
+  - **File**: [higher_lower_game.py](Day55_HigherLower/server.py)
+  - **Sample Output**:
+    - **Input**: User visits URL (e.g., "http://localhost:5000/guess/50") with a number guess.
+    - **Output**: Navigates to a page (e.g., "Too high! Try again" or "Correct! The number was 42") depending on the guess compared to the random number (e.g., 42).
