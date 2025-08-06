@@ -305,3 +305,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: Script runs, scrapes Zillow for San Francisco rentals, and accesses a Google Form.
     - **Output**: Creates a list (e.g., "Address: 123 Main St, Price: $2500, Link: zillow.com/123") and submits to Google Form (e.g., "Data entry for 5 properties completed successfully").
+- **Day 54: Decorator Function Timer**
+  - **Description**: A Python project where I learned about decorator functions and created a decorator to calculate the time it takes for a function to execute, then applied it to two functions to measure their runtime.
+  - **File**: [decorator_timer.py](Day54_DecoratorFunction/main.py)
+  - **Sample Output**:
+    - **Input**: Script runs with two functions (e.g., one looping 1 million times, another looping 1 billion times).
+    - **Output**: Displays runtime (e.g., "Function 1 took 0.25 seconds to run", "Function 2 took 0.15 seconds to run").
