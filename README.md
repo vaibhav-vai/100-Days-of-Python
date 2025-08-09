@@ -317,3 +317,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits URL (e.g., "http://localhost:5000/guess/50") with a number guess.
     - **Output**: Navigates to a page (e.g., "Too high! Try again" or "Correct! The number was 42") depending on the guess compared to the random number (e.g., 42).
+- **Day 56: Name Card Website Template with Flask**
+  - **Description**: A Python project using Flask to create a name card website template displaying my name, an image, and clickable Instagram, Facebook, and Twitter icons linking to my respective profiles on those platforms.
+  - **File**: [name_card_website.py](Day56_NameCardWebsiteTemplate/server.py)
+  - **Sample Output**:
+    - **Input**: User visits the website (e.g., "http://localhost:5000/").
+    - **Output**: Displays a page with my name (e.g., "John Doe"), an image, and icons (e.g., clicking the Instagram icon opens "https://instagram.com/johndoe").
