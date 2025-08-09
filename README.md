@@ -323,3 +323,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the website (e.g., "http://localhost:5000/").
     - **Output**: Displays a page with my name (e.g., "John Doe"), an image, and icons (e.g., clicking the Instagram icon opens "https://instagram.com/johndoe").
+- **Day 57: Blog Capstone Part 1**
+  - **Description**: A Flask-based blog website with a main page displaying 3 blog posts; clicking on any post opens a dedicated page showing the full blog content. Built using HTML, CSS, Python Flask, and Jinja templating.
+  - **File**: [blog_app.py](Day57_BlogCapstonePart1/main.py)
+  - **Sample Output**:
+    - **Input**: User visits the main page (e.g., "http://localhost:5000/") and clicks on a post title.
+    - **Output**: Main page shows 3 blog posts with titles and previews; clicking navigates to the post page (e.g., "/post/1") displaying the full content.
