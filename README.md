@@ -341,3 +341,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the main page (e.g., "http://localhost:5000/") and clicks on a post title.
     - **Output**: Displays a responsive main page with 3 blog posts and an interactive navbar; clicking navigates to the post page (e.g., "/post/1") with enhanced Bootstrap-styled content.
+- **Day 60: Blog Capstone with Contact Form**
+  - **Description**: An enhanced Flask-based blog website, building on Blog Capstone Part 2, featuring an interactive contact page. When users fill out the contact form, it sends the details to me via email using smtplib and updates the "Contact Me" h1 to "Submitted the Form."
+  - **File**: [blog_app.py](Day60_BlogWithContactForm/main.py)
+  - **Sample Output**:
+    - **Input**: User visits the contact page (e.g., "http://localhost:5000/contact"), fills the form (e.g., name: "John", email: "john@example.com", message: "Great site!"), and submits.
+    - **Output**: Sends an email to me with the form details and changes the page h1 to "Submitted the Form" (e.g., "Received from John: john@example.com - Great site!").
