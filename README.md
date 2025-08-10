@@ -329,3 +329,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the main page (e.g., "http://localhost:5000/") and clicks on a post title.
     - **Output**: Main page shows 3 blog posts with titles and previews; clicking navigates to the post page (e.g., "/post/1") displaying the full content.
+- **Day 58: TinDog Project**
+  - **Description**: A Bootstrap-based webpage project creating "TinDog," a Tinder-like platform for dogs, utilizing Bootstrap for responsive design and styling.
+  - **File**: [index.html](Day58_TinDogProject/index.html), [styles.css](Day58_TinDogProject/styles.css)
+  - **Sample Output**:
+    - **Input**: User opens the webpage in a browser.
+    - **Output**: Displays a responsive webpage with sections for dog profiles, a header, and call-to-action buttons styled using Bootstrap.
