@@ -347,3 +347,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the contact page (e.g., "http://localhost:5000/contact"), fills the form (e.g., name: "John", email: "john@example.com", message: "Great site!"), and submits.
     - **Output**: Sends an email to me with the form details and changes the page h1 to "Submitted the Form" (e.g., "Received from John: john@example.com - Great site!").
+- **Day 61: Advanced Forms**
+  - **Description**: A Python project using Flask, Bootstrap-Flask, and WTForms to create an advanced login page. Entering the correct email and password opens a successful page, while incorrect details result in an access denied page.
+  - **File**: [advanced_forms.py](Day61_AdvancedForms/main.py)
+  - **Sample Output**:
+    - **Input**: User visits the login page (e.g., "http://localhost:5000/login"), enters email (e.g., "user@example.com") and password.
+    - **Output**: If correct, opens "Success! Welcome user@example.com" page; if wrong, displays "Access Denied" page.
