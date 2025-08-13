@@ -353,3 +353,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the login page (e.g., "http://localhost:5000/login"), enters email (e.g., "user@example.com") and password.
     - **Output**: If correct, opens "Success! Welcome user@example.com" page; if wrong, displays "Access Denied" page.
+- **Day 62: Coffee and Wifi Project**
+  - **Description**: A Flask-based webpage project using Bootstrap, WTForms, and Jinja, featuring three pages: a home page, a page listing coffee places with ratings for coffee, wifi speed, and power socket availability, and a page to add new coffee places with name, location, opening/closing times, and ratings. Data is stored in a CSV file and loaded into a table for display.
+  - **File**: [coffee_wifi_app.py](Day62_CoffeeAndWifiProject/main.py)
+  - **Sample Output**:
+    - **Input**: User visits the site (e.g., "http://localhost:5000/"), navigates to the coffee places page, or adds a new place (e.g., "Cafe A, Downtown, 8 AM-6 PM, Coffee: 4/5, Wifi: 3/5, Sockets: 5/5").
+    - **Output**: Displays a table on the coffee places page (e.g., "Cafe A: Coffee 4/5, Wifi 3/5, Sockets 5/5") and saves/loads data from "coffee_places.csv".
