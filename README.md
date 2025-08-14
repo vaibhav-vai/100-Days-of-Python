@@ -359,3 +359,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the site (e.g., "http://localhost:5000/"), navigates to the coffee places page, or adds a new place (e.g., "Cafe A, Downtown, 8 AM-6 PM, Coffee: 4/5, Wifi: 3/5, Sockets: 5/5").
     - **Output**: Displays a table on the coffee places page (e.g., "Cafe A: Coffee 4/5, Wifi 3/5, Sockets 5/5") and saves/loads data from "coffee_places.csv".
+- **Day 63: Virtual Bookshelf Project**
+  - **Description**: A Flask-based webpage using Jinja and SQLAlchemy to create a virtual bookshelf, storing book names, authors, and user-assigned ratings in a database. Includes pages to add books, edit ratings, and a main page with a delete option for CRUD operations.
+  - **File**: [virtual_bookshelf.py](Day63_VirtualBookshelf/virtual_bookshelf.py)
+  - **Sample Output**:
+    - **Input**: User visits the main page (e.g., "http://localhost:5000/"), adds a book (e.g., "Book: 1984, Author: George Orwell, Rating: 4/5"), edits rating, or deletes a book.
+    - **Output**: Displays a table on the main page (e.g., "1984 by George Orwell - 4/5 [Delete]"), updates with edited ratings, and removes deleted books from the SQLAlchemy database.
