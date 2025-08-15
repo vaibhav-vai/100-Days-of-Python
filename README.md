@@ -365,3 +365,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the main page (e.g., "http://localhost:5000/"), adds a book (e.g., "Book: 1984, Author: George Orwell, Rating: 4/5"), edits rating, or deletes a book.
     - **Output**: Displays a table on the main page (e.g., "1984 by George Orwell - 4/5 [Delete]"), updates with edited ratings, and removes deleted books from the SQLAlchemy database.
+- **Day 64: Top Movies**
+  - **Description**: A Flask-based website using Flask-Bootstrap, WTForms, and SQLAlchemy, featuring movie cards with images, rankings based on my ratings, names, descriptions, release years, and reviews. Includes TMDB API for movie details and images, with buttons to update ratings or delete movies on cards, an "Add Movie" button on the home page, and a page to edit ratings and reviews. Performs CRUD operations with data stored in a SQLAlchemy database.
+  - **File**: [top_movies.py](Day64_TopMovies/top_movies.py)
+  - **Sample Output**:
+    - **Input**: User visits the home page (e.g., "http://localhost:5000/"), adds a movie (e.g., "Inception, 2010") via TMDB API, updates rating, or deletes a movie.
+    - **Output**: Displays cards (e.g., "1. Inception - 2010, Rating: 4.5/5, Review: Mind-blowing plot [Update] [Delete]"), adds new movies to the SQLAlchemy database, and updates or removes them accordingly.
