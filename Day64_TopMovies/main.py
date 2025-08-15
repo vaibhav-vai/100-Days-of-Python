@@ -8,7 +8,7 @@ from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 import requests
 
-MOVIE_DB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMjgwNmY2NjIxZjY3NjYxYjU2OTZhNTFhNGQyNWQ5MiIsIm5iZiI6MTc1NTI1MjIzNi4zODksInN1YiI6IjY4OWYwNjBjYzI3YmIzNjk4YmI3MTY4MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.lV3P3UKWytAqKtyHLY1qz31rHrlHwoODnn8JE_wYE9U"
+MOVIE_DB_API_KEY = "MY_APP_API"
 MOVIE_DB_SEARCH_URL = "https://api.themoviedb.org/3/search/movie"
 MOVIE_DB_INFO_URL = "https://api.themoviedb.org/3/movie"
 MOVIE_DB_IMAGE_URL = "https://image.tmdb.org/t/p/w500"
