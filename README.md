@@ -371,3 +371,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the home page (e.g., "http://localhost:5000/"), adds a movie (e.g., "Inception, 2010") via TMDB API, updates rating, or deletes a movie.
     - **Output**: Displays cards (e.g., "1. Inception - 2010, Rating: 4.5/5, Review: Mind-blowing plot [Update] [Delete]"), adds new movies to the SQLAlchemy database, and updates or removes them accordingly.
+- **Day 66: Cafes API**
+  - **Description**: A REST API project using Flask and SQLAlchemy to manage cafes in London, storing details like name, location, maps_url, image_url, coffee_price, seats, has_socket, has_wifi, has_toilet, and can_take_calls. Utilizes Postman for API calls: GET to retrieve data, PUT to add a cafe, PATCH to update details, and DELETE to remove a cafe, requiring a correct API key for access.
+  - **File**: [cafes_api.py](Day66_CafesAPI/main.py)
+  - **Sample Output**:
+    - **Input**: User makes API calls via Postman (e.g., GET /cafes, PUT /cafes with {"name": "Cafe A", "location": "London", ...}, PATCH /cafes/1 with {"coffee_price": 3.5}, DELETE /cafes/1 with API key).
+    - **Output**: GET returns JSON (e.g., [{"id": 1, "name": "Cafe A", "coffee_price": 3.5, ...}]), PUT adds a new cafe, PATCH updates (e.g., "Coffee price updated to 3.5"), DELETE removes a cafe if API key is valid.
