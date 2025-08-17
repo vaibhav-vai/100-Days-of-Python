@@ -377,3 +377,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User makes API calls via Postman (e.g., GET /cafes, PUT /cafes with {"name": "Cafe A", "location": "London", ...}, PATCH /cafes/1 with {"coffee_price": 3.5}, DELETE /cafes/1 with API key).
     - **Output**: GET returns JSON (e.g., [{"id": 1, "name": "Cafe A", "coffee_price": 3.5, ...}]), PUT adds a new cafe, PATCH updates (e.g., "Coffee price updated to 3.5"), DELETE removes a cafe if API key is valid.
+- **Day 67: Blog Capstone Part 3**
+  - **Description**: An enhanced Flask-based blog website building on Blog Capstone Part 2, featuring a "Create" button to add new posts saved in a SQLAlchemy database, an "Edit" button on the post page to modify blog content, and a "Delete" button on the index page to remove unwanted posts.
+  - **File**: [blog_app.py](Day67_BlogCapstonePart3/blog_app.py)
+  - **Sample Output**:
+    - **Input**: User visits the index page (e.g., "http://localhost:5000/"), clicks "Create" to add a post (e.g., "New Post"), edits via the post page, or deletes a post.
+    - **Output**: Displays updated index with new posts, allows editing (e.g., "Edited: New Post"), and removes deleted posts from the SQLAlchemy database.
