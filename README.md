@@ -383,3 +383,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the index page (e.g., "http://localhost:5000/"), clicks "Create" to add a post (e.g., "New Post"), edits via the post page, or deletes a post.
     - **Output**: Displays updated index with new posts, allows editing (e.g., "Edited: New Post"), and removes deleted posts from the SQLAlchemy database.
+- **Day 68: Flask with Authentication**
+  - **Description**: A Flask project using Flask-Login and Werkzeug.security to create a login page for user registration with name, email, and password, hashing passwords for security. Users can log in with their email and password to access a secret page containing a downloadable Flask cheatsheet.
+  - **File**: [auth_app.py](Day68_FlaskWithAuthentication/main.py)
+  - **Sample Output**:
+    - **Input**: User visits the login page (e.g., "http://localhost:5000/login"), registers (e.g., "Name: John, Email: john@example.com, Password: secret123"), and logs in.
+    - **Output**: Redirects to a secret page (e.g., "http://localhost:5000/secret") with a Flask cheatsheet displayed and a download link (e.g., "Download Cheatsheet").
