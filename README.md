@@ -389,3 +389,9 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Sample Output**:
     - **Input**: User visits the login page (e.g., "http://localhost:5000/login"), registers (e.g., "Name: John, Email: john@example.com, Password: secret123"), and logs in.
     - **Output**: Redirects to a secret page (e.g., "http://localhost:5000/secret") with a Flask cheatsheet displayed and a download link (e.g., "Download Cheatsheet").
+- **Day 69: Blog Capstone Part 4**
+  - **Description**: A completed Flask-based blog project enhancing previous versions, featuring user registration, login for registered users, route protection, relational databases with 3 tables connected via relationships, and comment functionality for all users. Includes authentication for admin and user roles: admins can create and edit posts, while users can only add comments and cannot create or edit posts.
+  - **File**: [blog_app.py](Day69_BlogCapstonePart4/main.py)
+  - **Sample Output**:
+    - **Input**: User visits (e.g., "http://localhost:5000/"), registers (e.g., "Name: Jane, Email: jane@example.com"), logs in; admin creates a post (e.g., "New Article"), user comments (e.g., "Great post!").
+    - **Output**: Displays a protected blog page with posts and comments, allows admin to edit (e.g., "Edited: New Article"), and restricts users to commenting only, all stored in the relational database.
