@@ -399,5 +399,5 @@ My journey through the "100 Days of Code - Python Bootcamp" by Angela Yu.
   - **Description**: A project where I deployed the Blog Capstone application, developed in previous days, to the Render platform, making it accessible online with features like user registration, login, post creation (for admins), and commenting (for users) using Flask, SQLAlchemy, and authentication.
   - **File**: [blog_app.py](Day71_BlogCapstoneDeployment/main.py)
   - **Sample Output**:
-    - **Input**: User accesses the deployed app (e.g., "https://your-blog.onrender.com/"), logs in, or interacts with posts/comments.
+    - **Input**: User accesses the deployed app (e.g., "https://blog-website-j678.onrender.com/"), logs in, or interacts with posts/comments.
     - **Output**: Displays a live blog page with posts and comments, allows admin actions (e.g., creating "New Post"), and user comments (e.g., "Nice post!"), hosted on Render.
